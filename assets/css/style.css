@@ -11,7 +11,7 @@
         height: 200px;
     }
 
-    >div>div>.box_portfolio{
+    >div>div>.box_portfolio_about{
         border: 2px solid violet;
         height: 30px;
     }
@@ -25,6 +25,12 @@
         height: 60px;
         background-color: lightpink;
     }
+
+    >div>div>.box_about{
+        border: 2px solid darkslateblue;
+        height: 120px;
+    }
+
 
 
 }
