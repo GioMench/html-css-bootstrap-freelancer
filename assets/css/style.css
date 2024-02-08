@@ -21,5 +21,10 @@
         height: 80px;
     }
 
+    >div>div>div>.card{
+        height: 60px;
+        background-color: lightpink;
+    }
+
 
 }
