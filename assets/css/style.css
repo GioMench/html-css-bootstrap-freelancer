@@ -1,0 +1,25 @@
+.debug {
+    
+
+    >.box_menu {
+        border: 2px solid black;
+        height: 50px;
+    }
+
+    >div>.box_start {
+        border: 2px solid red;
+        height: 200px;
+    }
+
+    >div>div>.box_portfolio{
+        border: 2px solid violet;
+        height: 30px;
+    }
+
+    >div>div>.box_portfolioimg{
+        border: 2px solid darkmagenta;
+        height: 80px;
+    }
+
+
+}
