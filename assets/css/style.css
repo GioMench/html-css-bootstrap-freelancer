@@ -92,3 +92,7 @@ main>section{
     border-radius: 50%;
     line-height: 28px; 
 }
+
+.m_text_green{
+    color: var(--fz-primary);
+}
