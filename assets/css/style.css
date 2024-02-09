@@ -63,6 +63,15 @@
     background-color: var(--fz-primary);
 }
 
+#more{
+    background-color: var(--fz-dark);
+}
+
+#copyright{
+    background-color: var(--fr-darkest);
+    font-size: x-small;
+}
+
 main>section{
     padding-top: 40px;
     padding-bottom:40px;
@@ -74,4 +83,13 @@ main>section{
 
 .m_portfolioimg{
     width: 100%;
+}
+
+.fa-brands{
+    border: 1px solid var(--fz-ligther);
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    align-items: center;
+    
 }
