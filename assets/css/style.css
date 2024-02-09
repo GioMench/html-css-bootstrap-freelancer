@@ -43,6 +43,18 @@
 
 }
 
+
+:root{
+    --fr-darkest:#2c3f51;
+    --fz-primary:#1bbc9d;
+    --fz-ligther: #fefeff;
+    --fz-dark:#3a556c;
+}
+
+#menu{
+    background-color: var(--fr-darkest);
+}
+
 main>section{
     padding-top: 40px;
     padding-bottom:40px;
