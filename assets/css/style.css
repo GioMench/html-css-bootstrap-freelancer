@@ -96,3 +96,14 @@ main>section{
 .m_text_green{
     color: var(--fz-primary);
 }
+
+.m_border{
+    border-top: none;
+    border-right: none;
+    border-left:none;
+}
+
+.m_color_btn{
+    background-color: var(--fz-primary);
+    color: var(--fz-ligther);
+}
